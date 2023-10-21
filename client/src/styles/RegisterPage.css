@@ -1,0 +1,73 @@
+.register-page {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: linear-gradient(to right, #c6ffdd, #fbd786, #f7797d);
+  }
+  .register-form {
+    background-color: #fff;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 20px;
+    width: 30%;
+  }
+  
+  .register-form h2 {
+    margin-top: 10px;
+    text-align: center;
+    font-weight: bold;
+    color: #b87333;
+  }
+  
+  .register-form a {
+    color: #b87333 !important;
+  }
+  
+  .register-form a:hover {
+    color: black !important;
+  }
+  
+  .register-form button {
+    background-color: #b87333;
+    color: white;
+  }
+  
+  .register-form input:focus {
+    border: 1px solid #b87333 !important;
+    color: #b87333;
+  }
+  .register-form button:hover {
+    background-color: black;
+    color: white;
+  }
+  .register-img{
+    margin-left: 165px;
+  }
+
+   .fontstyle {
+    font-size: 16px;
+    font-weight: 800;
+    background-image: linear-gradient(to left, #553c9a, #b393d3);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+  }
+
+
+   .mainheader{
+    font-size: 40px;
+    font-weight: 30;
+    font-family: 'Roboto', sans-serif;
+    color: #e3c6ff;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 0px #957dad,
+                 1px 2px 0px #957dad,
+                 1px 3px 0px #957dad,
+                 1px 4px 0px #957dad,
+                 1px 5px 0px #957dad,
+                 1px 6px 0px #957dad,
+                 1px 10px 5px rgba(16, 16, 16, 0.5),
+                 1px 15px 10px rgba(16, 16, 16, 0.4),
+                 1px 20px 30px rgba(16, 16, 16, 0.3),
+                 1px 25px 50px rgba(16, 16, 16, 0.2);
+  }

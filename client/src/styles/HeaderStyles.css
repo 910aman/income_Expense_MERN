@@ -1,0 +1,38 @@
+.navbar {
+    background-color: #060505e8 !important;
+  }
+  .navbar .navbar-brand {
+    color: #fff1f1c7 !important;
+    /* font-weight: bold; */
+    font-size: 1.5rem;
+    text-transform: uppercase;
+  }
+  
+  .nav-link {
+    font-size: 1.3rem;
+    color: white;
+    font-style:bold;
+  }
+  
+  .navbar h6 {
+    margin-top: 0px;
+    margin-right: 20px;
+  }
+
+  .mainheader{
+    font-size: 1rem;
+    /* font-weight: 1; */
+    /* font-family: 'Roboto', sans-serif; */
+    color: #91889a;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 0px #957dad,
+                 1px 2px 0px #957dad,
+                 1px 3px 0px #957dad,
+                 1px 4px 0px #957dad,
+                 1px 5px 0px #957dad,
+                 1px 6px 0px #957dad,
+                 1px 10px 5px rgba(16, 16, 16, 0.5),
+                 1px 15px 10px rgba(16, 16, 16, 0.4),
+                 1px 20px 30px rgba(16, 16, 16, 0.3),
+                 1px 25px 50px rgba(16, 16, 16, 0.2);
+  }
